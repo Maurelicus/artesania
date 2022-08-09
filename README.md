@@ -1,3 +1,5 @@
+## Documentación
+
 ### Introducción
 Este proyecto es de una pagina web de una tienda de artesanias huanuqueña
 es hecho de momento en python con el framework Django.
